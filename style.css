@@ -1,0 +1,29 @@
+h1{
+    color:rgb(255, 51, 0);text-align: center; font-style: italic; font-size: 50px;
+    background-image: url("progra.jpg");
+}
+h3{
+    text-align: center;
+    font-size:25px;
+    background-color:rgb(4, 75, 182);
+}
+h5{
+    color:blueviolet;font-style: italic;
+}
+
+#P1{
+    color:green;font-style: italic;
+
+}
+.H5S{
+    color:orangered;font-style: italic;
+}
+
+ul{
+    list-style:lower-alpha
+}
+#estudios{
+    list-style:upper-latin;
+    opacity: 0.7;
+
+}
